@@ -9,7 +9,7 @@ import java.util.List;
 import java.util.Objects;
 import java.util.Optional;
 
-
+//Lógica de negócios para interagir com o banco de dados.
 @Service
 public class ContaServiceImplements implements ContaService {
 

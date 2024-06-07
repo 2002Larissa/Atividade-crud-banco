@@ -4,6 +4,7 @@ import com.example.Crud.entity.Conta;
 
 import java.util.List;
 
+//Metódos para realizar operações CRUD na entidade conta.
 public interface ContaService {
 
         Conta salvarConta(Conta conta);

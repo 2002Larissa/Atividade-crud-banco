@@ -23,6 +23,7 @@ public class Conta {
         this.numeroConta = numeroConta;
     }
 
+    //Getters e Setters
     public Long getContaId() {
         return contaId;
     }
